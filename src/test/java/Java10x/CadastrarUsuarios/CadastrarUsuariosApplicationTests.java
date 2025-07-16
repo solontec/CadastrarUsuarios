@@ -8,6 +8,7 @@ class CadastrarUsuariosApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
